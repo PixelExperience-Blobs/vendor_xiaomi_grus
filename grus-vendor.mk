@@ -1419,6 +1419,8 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     imssettings \
     uceShimService \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     WfdService \
     dpmserviceapp \
     ims \
